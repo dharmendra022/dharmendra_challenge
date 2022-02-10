@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dharmendra_challenge/static/css/main.04a5c361.css",
+    "main.js": "/dharmendra_challenge/static/js/main.512126aa.js",
+    "static/js/787.e3529821.chunk.js": "/dharmendra_challenge/static/js/787.e3529821.chunk.js",
+    "index.html": "/dharmendra_challenge/index.html",
+    "main.04a5c361.css.map": "/dharmendra_challenge/static/css/main.04a5c361.css.map",
+    "main.512126aa.js.map": "/dharmendra_challenge/static/js/main.512126aa.js.map",
+    "787.e3529821.chunk.js.map": "/dharmendra_challenge/static/js/787.e3529821.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a5c361.css",
+    "static/js/main.512126aa.js"
+  ]
+}
